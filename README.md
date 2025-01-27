@@ -54,10 +54,35 @@ I am currently pursuing my Master's at **California State University, East Bay**
 
 ## Key Projects
 
-### Software for Search and Rescue of Missing Aircrafts
-- Built a GIS-based system in Python using the GeoPandas package.
-- Implemented algorithms like SAW, OWA, and AHP for analysis.
-- Conducted extensive testing using GIS and MCDA tools.
+### Smart Building Analysis
+- **Repository**: [Smart Building Analysis](https://github.com/lasyatummala11/smart_building_analysis)
+- Focused on optimizing energy usage and building efficiency using data-driven methods.
+
+### Flight Search and Rescue System
+- **Repository**: [Search and Rescue of Missing Aircrafts](https://github.com/lasyatummala11/SEARCH-AND-RESCUE-OF-MISSING-AIRCRAFTS)
+- GIS-based system developed in Python to aid in locating missing aircrafts.
+
+### Social Media Sentiment Analysis
+- **Repository**: [Social Media Sentiment Analysis](https://github.com/lasyatummala11/Social-Medial-Sentiment-Analysis)
+- Built a machine learning model to analyze sentiment from social media text data.
+
+### Workforce Analytics
+- **Repository**: [Workforce Analytics](https://github.com/lasyatummala11/workforce-analytics)
+- Analyzed workforce data to optimize resource allocation and performance metrics.
+
+### Operations Analytics
+- **Repository**: [Operations Analytics](https://github.com/lasyatummala11/operations-analytics)
+- Applied advanced analytical techniques to improve operational efficiency.
+
+### Facebook Ad Campaign Performance Analysis
+- **Repository**: [Facebook Ad Campaign Analysis](https://github.com/lasyatummala11/facebook-ad-campaign-performance-analysis)
+- Evaluated ad campaign performance to provide insights for optimizing marketing strategies.
+
+### Player Segmentation and Persona Creation
+- **Repository**: [Player Segmentation and Persona Creation](https://github.com/lasyatummala11/Player-segmentation-and-persona-creation)
+- Performed clustering analysis to segment players and create detailed personas.
+
+For additional projects, visit my [GitHub profile](https://github.com/lasyatummala11).
 
 ---
 
