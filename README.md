@@ -1,40 +1,87 @@
-About Me
+# Lasya Tummala's Portfolio
 
-Hi! I’m Lasya Tummala, a passionate and inquisitive professional focused on data analytics, programming, and business development. With a Master’s degree in progress at California State University, East Bay, I am constantly honing my skills in data science, analytics, and software development.
+Welcome to the official GitHub repository of **Lasya Tummala**, a passionate data enthusiast and aspiring professional with expertise in data analytics, programming, and digital marketing.
 
-This repository showcases my projects, collaborations, and contributions to various fields, including data analysis, GIS-based solutions, and brand development.
+---
 
-🔧 Technical Skills
-	•	Programming Languages: Java, Python, R, SQL, C
-	•	Web Development: HTML5, CSS3
-	•	Databases: MySQL, DBMS, Data Warehousing
-	•	Data Analytics Tools: Big Data, Deep Learning, Business Intelligence
-	•	Operating Systems: Windows Server, Linux, Ubuntu
+## About Me
 
-🚀 Projects
+I am currently pursuing my Master's at **California State University, East Bay** with a strong focus on data analytics and business intelligence. With a blend of technical skills and professional experience, I aim to contribute to innovative projects that drive meaningful impact.
 
-GIS-based Search and Rescue Software
-	•	Developed a Python-based system using GeoPandas for GIS analysis.
-	•	Utilized modules like SAW, OWA, and AHP for decision-making processes.
-	•	Ensured efficiency through rigorous GIS and MCDA testing.
+### Links
+- **LinkedIn**: [Lasya Tummala](https://www.linkedin.com/in/lasyatummala/)
+- **Portfolio**: [Personal Website](https://sites.google.com/horizon.csueastbay.edu/lasya-tummala/home)
+- **Email**: [lasyatummala4@gmail.com](mailto:lasyatummala4@gmail.com)
 
-Smart India Hackathon: Chatbot Development
-	•	Designed and implemented advanced chatbots as part of a competitive hackathon.
-	•	Showcased adaptability and innovation in problem-solving.
+---
 
-📚 Certifications
-	•	Data Analysis and Project Management (Coursera)
-	•	Blockchain Basics (Coursera)
-	•	Internet of Things (ECIL ECIT)
-	•	Smart India Hackathon Certification
-(Full list available on my portfolio site.)
+## Education
 
-📫 Let’s Connect
-	•	Portfolio: https://sites.google.com/horizon.csueastbay.edu/lasya-tummala/home
-  •	LinkedIn: https://www.linkedin.com/in/lasyatummala/
-  •	GitHub: @lasyatummala11
+- **Master’s in Data Analytics**
+  California State University, East Bay (2023 - Present)
 
-🌟 Personal Traits
-	•	Adaptable: Quick to learn and implement new technologies.
-	•	Collaborative: Strong team player with experience in cross-functional teams.
-	•	Curious: Always exploring innovative solutions and advancements.
+- **B.Tech in Computer Science**
+  Jawaharlal Nehru Technological University (2017 - 2021)
+
+---
+
+## Technical Skills
+
+- **Programming Languages**: Python, Java, R, C, SQL
+- **Web Development**: HTML5, CSS3
+- **Data Analytics Tools**: MySQL, Data Warehousing, Business Intelligence
+- **Specializations**: Big Data, Deep Learning, Optimization for Analytics
+- **Operating Systems**: Windows Server, Linux, Ubuntu
+
+---
+
+## Work Experience
+
+### Business Developer at What Works (Digital Marketing Startup) (2022-2023)
+- Conducted market research to identify trends and opportunities.
+- Acquired and managed client relationships, driving revenue growth.
+- Designed marketing strategies and analyzed data for optimizations.
+
+### Client Servicing Agent at Amplifying Voices (2023)
+- Cultivated client relationships, ensuring satisfaction and brand alignment.
+- Coordinated projects and facilitated effective communication.
+
+### Content Analyst at IUOMIS (Freelance) (2022-2023)
+- Managed and analyzed social media content to enhance engagement.
+- Developed strategies to align with branding objectives.
+
+---
+
+## Key Projects
+
+### Software for Search and Rescue of Missing Aircrafts
+- Built a GIS-based system in Python using the GeoPandas package.
+- Implemented algorithms like SAW, OWA, and AHP for analysis.
+- Conducted extensive testing using GIS and MCDA tools.
+
+---
+
+## Certifications
+
+- **Smart India Hackathon**: Built Chatbots
+- **Internet of Things** (ECIL ECIT)
+- **Coursera**:
+  - Business Analysis Using Spreadsheets
+  - Blockchain Basics
+  - Data Analysis and SQL
+
+---
+
+## Personal Traits
+
+- Inquisitive and detail-oriented.
+- Fast learner and adaptable.
+- Enthusiastic about exploring new technologies.
+
+---
+
+## How to Reach Me
+
+- **GitHub**: [Lasya Tummala](https://github.com/lasyatummala11)
+- **LinkedIn**: [Lasya Tummala](https://www.linkedin.com/in/lasyatummala/)
+- **Portfolio**: [Visit Here](https://sites.google.com/horizon.csueastbay.edu/lasya-tummala/home)
